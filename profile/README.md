@@ -1,19 +1,21 @@
 
-```text
-              __ _                     _       
-   ___  ___  / _| |_ _____      _____ (_) __ _ 
+```console
+softzweig@engineering:~$ ./about
+
+              __ _                     _
+   ___  ___  / _| |_ _____      _____ (_) __ _
   / __|/ _ \| |_| __|_  / \ /\ / / _ \| |/ _` |
   \__ \ (_) |  _| |_ / / \ V  V /  __/| | (_| |
   |___/\___/|_|  \__/___| \_/\_/ \___||_|\__, |
-                                         |___/ 
+                                         |___/
 
-  > Independent software engineering
-  > Built in Germany.
-  > Est. 2026
+  Company     Softzweig
+  Location    Germany
+  Focus       Software products & infrastructure
+  Since       2026
+
+softzweig@engineering:~$ █
 ```
-
-Building software products and open-source infrastructure
-with an emphasis on simplicity, reliability, and longevity.
 
 ### Open source
 
