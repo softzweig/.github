@@ -21,3 +21,4 @@ softzweig@engineering:~$ █
 
 - [Suitcase](https://github.com/softzweig/suitcase) - Resource
   and asset management infrastructure.
+- [Spindle](https://github.com/softzweig/spindle) - Lightweight opinionated library to compose cohesive backend primitives.
